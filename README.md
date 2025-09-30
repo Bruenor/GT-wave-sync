@@ -31,7 +31,8 @@ Due to the way **Wave Skip** works with Golden Tower, it is highly beneficial fo
 
 - The analysis suggests the **best GT cooldown to wave sync** occurs at **280 seconds** (8-1 natural sync).  
 - The next best sync time is **210 seconds** (6-1 natural sync). There is one in-between time of 245 seconds (7-1), but this needs a **legendary submodule effect**.
-- However, if you have enough stones for 210s cooldown, they might be better invested in acquiring the **Black Hole** instead.  
+- However, if you have enough stones for 210s cooldown, they might be better invested in acquiring the **Black Hole** instead.
+- The next best option is to increase the Golden Tower duration to 36 seconds, which allows Golden Tower to remain active over two wave skip opportunities. This is huge.
 
 ---
 
