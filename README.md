@@ -23,7 +23,7 @@ Due to the way **Wave Skip** works with Golden Tower, it is highly beneficial fo
 
 - Normally, skipping a wave grants a **1.10% coin bonus**.  
 - If Golden Tower is active during that time, the bonus is multiplied by your **GT multiplier**.  
-- This results in significantly higher profitability — as many players may have noticed.  
+- This is highly profitable - as I imagine you noticed.  
 
 ---
 
