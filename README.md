@@ -39,3 +39,4 @@ Due to the way **Wave Skip** works with Golden Tower, it is highly beneficial fo
 ## 📌 Notes
 
 This is a theoretical calculation meant to guide optimization strategies. Actual results may vary depending on your build and luck during a run.  
+The Golden Tower duration table starts at 28 seconds, as that was the value I had when I began this research. You can easily adjust this in the code.
