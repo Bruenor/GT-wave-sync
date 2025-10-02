@@ -1,7 +1,7 @@
 # GT-wave-sync
 
 This project explores the impact of syncing the **Golden Tower Ultimate Weapon (GT UW)** with the wave timer.  
-Theoretical calculations are used to illustrate how **Golden Tower cooldown and duration** affect coin income, based on the **default wave timer** (without the Wave Accelerator card).  
+Theoretical calculations are used to illustrate how **Golden Tower cooldown and duration** affect coin income, based on the **default wave timer** which is 26 seconds + 9 second cooldown (without the Wave Accelerator card).  
 
 The motivation:  
 - You might not be lucky enough to get **Black Hole** early, or  
